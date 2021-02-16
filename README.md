@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martinet101
-- 👀 I’m interested in Desktop Apps Programming (if this does exists)
+- 👀 I’m interested in Desktop Apps Programming (you can find me at https://www.somepythonthings.tk/)
 - 🌱 I’m in the high school, so I'm not studying nothing in special
 - 📫 How to reach me: marticlilop@gmail.com
 
