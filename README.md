@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @martinet101 (Martí Climent)
-- 👀 I’m interested in Desktop Programming and in any oyher stuff that involves messing with computers. I'm, the author of ElevenClock, and you can find me [here!](https://www.somepythonthings.tk/)
-- 🌱 I’m still in high school, so I'm not studying nothing in special. My goal is to study computer science or something like that, but idk really.
-- 📫 How to reach me: marticlilop@gmail.com
+# Hi!
+Hi, I’m @martinet101 (Martí Climent). You can find me [here!](https://www.somepythonthings.tk/)
 
-<!---
-martinet101/martinet101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach me at marticlilop@gmail.com or by filling [this form](https://www.somepythonthings.tk/#contact)
+
+## My main repos:
+ - martinet101/ElevenClock
+ - martinet101/WingetUI
+ - martinet101/win32mica
+ - Guitar Chord Transposer (martinet101/martinet101.github.io)
+ 
+ 
+## GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=martinet101&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![jaivardhan-bhola's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinet101&theme=default&hide_border=true)
+
+![jaivardhan-bhola's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinet101&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+## Achievements  
+![](https://github-profile-trophy.vercel.app/?username=martinet101&show_icons=true&hide_border=true)
