@@ -19,4 +19,4 @@ Reach me at marticlilop@gmail.com or by filling [this form](https://www.somepyth
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martinet101&langs_count=10&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ## Achievements  
-![](https://github-profile-trophy.vercel.app/?username=martinet101&show_icons=true&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=martinet101&show_icons=true&hide_border=true&include_all_commits=true)
