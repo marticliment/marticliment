@@ -1,5 +1,5 @@
 # Hi!
-Hi, I’m @marticliment (Martí Climent). You can find me at https://marticliment.com
+Hi, I’m @marticliment (Martí Climent). You can find me at https://www.marticliment.com
 
 Reach me at marticlilop@gmail.com or by filling [this form](https://www.somepythonthings.tk/#contact)
 
