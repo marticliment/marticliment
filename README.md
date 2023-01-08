@@ -1,7 +1,7 @@
 # Hi!
 Hi, I’m @marticliment (Martí Climent). You can find me at [www.marticliment.com](https://www.marticliment.com)
 
-Reach me at marticlilop@gmail.com or by filling [this form](https://www.somepythonthings.tk/#contact)
+Reach me at marticlilop@gmail.com or by filling [this form](https://www.marticliment.com/#contact)
 
 ## My main repos:
  - marticliment/ElevenClock
