@@ -3,13 +3,6 @@ Hi, I’m @marticliment (Martí Climent). You can find me at [www.marticliment.c
 
 Reach me at marticlilop@gmail.com or by filling [this form](https://www.marticliment.com/#contact)
 
-## My main repos:
- - marticliment/ElevenClock
- - marticliment/WingetUI
- - marticliment/win32mica
- - Guitar Chord Transposer (marticliment/martinet101.github.io)
- 
- 
 ## GitHub Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=marticliment&theme=default&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
