@@ -6,7 +6,7 @@ Reach me at marticlilop@gmail.com or by filling [this form](https://www.marticli
 ## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marticliment&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marticliment&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></p>
+<img src="https://github-readme-stats.vercel.app/api?username=marticliment&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=percentile"></img> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marticliment&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact" height=195px></img></p>
 
 ## Things I have done
 
