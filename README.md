@@ -11,7 +11,7 @@ Reach me at marticlilop@gmail.com or by filling [this form](https://www.marticli
 ## Things I have done
 
 <p align="center">
-<a href="https://github.com/marticliment/WingetUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marticliment&repo=WingetUI&show_owner=true&theme=github_dark_dimmed"></img></a>
+<a href="https://github.com/marticliment/UniGetUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marticliment&repo=UniGetUI&show_owner=true&theme=github_dark_dimmed"></img></a>
 <a href="https://github.com/marticliment/ElevenClock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marticliment&repo=ElevenClock&show_owner=true&theme=github_dark_dimmed"></img></a>
 <a href="https://github.com/marticliment/WingetUI-Widgets"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marticliment&repo=WingetUI-Widgets&show_owner=true&theme=github_dark_dimmed"></img></a>
 <a href="https://github.com/griush/GalileoHack"><img src="https://github-readme-stats.vercel.app/api/pin/?username=griush&repo=GalileoHack&show_owner=true&theme=github_dark_dimmed"></img></a>
