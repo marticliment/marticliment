@@ -1,5 +1,5 @@
 # Hi!
-Hi, I’m @marticliment (Martí Climent). You can find me at [www.marticliment.com](https://www.marticliment.com)
+Hi, I’m @marticliment (Martí Climent). You can find me at [www.marticliment.com](https://www.marticliment.com). I am a Computer Science student at Universitat Politècnica de Catalunya, and I like to develop things on my own. Two of my sideprojects have been ElevenClock (https://github.com/marticliment/ElevenClock) and UniGetUI (now maintained by Devolutions, https://github.com/Devolutions/UniGetUI)
 
 Reach me at marticlilop@gmail.com or by filling [this form](https://www.marticliment.com/#contact)
 
